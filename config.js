@@ -71,7 +71,7 @@ module.exports = {
 
   HANDLERS: process.env.PREFIX  || ".😌",
   BRANCH  : process.env.BRANCH  || "main",
-  VERSION : process.env.VERSION || "1.3.4",
+  VERSION : process.env.VERSION || "1.3.7",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
   author : process.env.PACK_AUTHER|| "",
